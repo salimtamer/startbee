@@ -1,6 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 XIAO ESP32 C3,1,Seeedstudio,$4.90,$4.90,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
-0.96 OLED,1,Amazon,$0.00,$0.00,https://www.amazon.com/dp/B0GBVWBWCR
+0.96 OLED,1,Amazon,$5.99,$5.99,https://www.amazon.com/dp/B0GBVWBWCR
 MPU6050,1,Amazon,$0.00,$0.00,https://www.amazon.com/dp/B0943SGP34
 DHT11,1,Amazon,$0.00,$0.00,https://www.amazon.com/dp/B0BLG7R99R
 MX Switches,4,Amazon,$0.00,$0.00,https://www.amazon.com//dp/B0FQP8VYX4
