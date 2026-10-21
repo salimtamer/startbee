@@ -26,6 +26,13 @@ The PCB design, renders, and an Arduino starter firmware are included here. The 
 
 ## Repository contents
 
+
+
+
+<img width="1142" height="768" alt="Screenshot 2026-10-09 201717" src="https://github.com/user-attachments/assets/26d9368c-d625-4b6f-bea0-b9b34313a642" />
+<img width="1262" height="780" alt="Screenshot 2026-10-09 201918" src="https://github.com/user-attachments/assets/5aa5ebc9-ac88-4b20-8253-160ea10228ff" />
+
+
 - `PCB/` - KiCad source files and fabrication exports
 - `Renders/` - front and back PCB renders
 - `Week 1 Guide.md` - project guide material
